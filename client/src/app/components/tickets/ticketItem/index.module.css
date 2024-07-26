@@ -1,0 +1,21 @@
+.select-assignee {
+  width: 100px;
+  height: 33px;
+}
+
+.select-assignee > div > span {
+  inset-inline-end: unset !important;
+}
+
+.completed {
+  color: lime;
+}
+
+.btn-check {
+  height: 32px;
+  padding: 0 25px;
+}
+
+.ticket-item ul {
+  display: flex;
+}
